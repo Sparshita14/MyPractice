@@ -1,0 +1,7 @@
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Multiple\Multiple\bin\Debug\Multiple.exe.config
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Multiple\Multiple\bin\Debug\Multiple.exe
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Multiple\Multiple\bin\Debug\Multiple.pdb
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Multiple\Multiple\obj\Debug\Multiple.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Multiple\Multiple\obj\Debug\Multiple.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Multiple\Multiple\obj\Debug\Multiple.exe
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Multiple\Multiple\obj\Debug\Multiple.pdb

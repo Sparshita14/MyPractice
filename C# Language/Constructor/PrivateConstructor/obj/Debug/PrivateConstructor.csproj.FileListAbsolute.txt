@@ -1,0 +1,7 @@
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Constructor\PrivateConstructor\bin\Debug\PrivateConstructor.exe.config
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Constructor\PrivateConstructor\bin\Debug\PrivateConstructor.exe
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Constructor\PrivateConstructor\bin\Debug\PrivateConstructor.pdb
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Constructor\PrivateConstructor\obj\Debug\PrivateConstructor.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Constructor\PrivateConstructor\obj\Debug\PrivateConstructor.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Constructor\PrivateConstructor\obj\Debug\PrivateConstructor.exe
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Constructor\PrivateConstructor\obj\Debug\PrivateConstructor.pdb

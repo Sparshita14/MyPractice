@@ -1,0 +1,7 @@
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Delgates\Delgates\bin\Debug\Delgates.exe.config
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Delgates\Delgates\bin\Debug\Delgates.exe
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Delgates\Delgates\bin\Debug\Delgates.pdb
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Delgates\Delgates\obj\Debug\Delgates.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Delgates\Delgates\obj\Debug\Delgates.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Delgates\Delgates\obj\Debug\Delgates.exe
+C:\Users\sparshita_chowdhury\Documents\My prac\MyPractice\C# Language\Delegates\Delgates\Delgates\obj\Debug\Delgates.pdb

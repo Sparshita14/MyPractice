@@ -10,6 +10,7 @@ namespace Abstraction
     {
         public abstract void nameof(string fruit); // abstract method with no body
 
+
         public void nonab() // non abstract method with body
         {
             Console.WriteLine("this is non abstract class");
